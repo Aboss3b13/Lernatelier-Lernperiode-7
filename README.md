@@ -13,4 +13,11 @@ Heute habe ich weiter an meinem Pokémon-Spiel gearbeitet. Zuerst habe ich den C
 
 ### 25.10.2024
 - [ ] Ich werde ein Notifikationen system auf der Website programmieren
-- [ ] Eine "ative Userliste erstellen"
+- [ ] Eine Chat Funktion zwischen die Users erstellen
+
+Heute habe ich zwei Benachrichtigungssysteme auf meiner Website programmiert. Das erste System sendet eine Nachricht an eine andere Person auf der Website, wenn man auf einen Knopf drückt. Die Nachricht lautet: „This person wants to battle you.“ Das zweite System ist ein privater Chat zwischen zwei Nutzern, ähnlich wie bei WhatsApp. Dafür habe ich zwei neue Collections in Firebase erstellt: eine für die Benachrichtigungen und eine für die Chats.
+
+### 01.11.2024
+- [ ] Ich will ein Friends Tab für den Homepage erstellen
+- [ ] Ich will ein Page erstellen wo beide Users sich kämpfen können mit ihre Pokemon.
+- [ ] Das Gamelogik programmieren
