@@ -28,3 +28,5 @@ Heute habe ich versucht, eine Freundesliste für mein Pokémon-Thema-Multiplayer
 - [ ] Den Friend Request Funktion funktinieren zu bringen
 - [ ] Ich will ein Page erstellen wo beide Users sich kämpfen können mit ihre Pokemon.
 - [ ] Das Gamelogik programmieren.
+
+Ich habe versucht, die Buttons „accept“ und „reject“ für Freundschaftsanfragen in den Benachrichtigungen zu implementieren. Trotz mehrerer Versuche und Anpassungen wollte der Code die Buttons nicht anzeigen. Ich habe verschiedene Fehlerbehebungen ausprobiert, aber die Buttons bleiben unsichtbar.
