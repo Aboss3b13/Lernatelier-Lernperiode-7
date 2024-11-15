@@ -24,7 +24,7 @@ Heute habe ich zwei Benachrichtigungssysteme auf meiner Website programmiert. Da
 
 Heute habe ich versucht, eine Freundesliste für mein Pokémon-Thema-Multiplayer-Battle-Simulator-Projekt zu programmieren. Ich bin jedoch nicht so weit gekommen, da ich Schwierigkeiten hatte, die Logik für das Akzeptieren von Freundschaftsanfragen zu implementieren. Es war frustrierend, weil ich die Idee im Kopf hatte, aber die technische Umsetzung herausfordernd war. 
 
-### 08.11.2024
+### 15.11.2024
 - [ ] Den Friend Request Funktion funktinieren zu bringen
 - [ ] Ich will ein Page erstellen wo beide Users sich kämpfen können mit ihre Pokemon.
 - [ ] Das Gamelogik programmieren.
