@@ -31,7 +31,7 @@ Heute habe ich versucht, eine Freundesliste für mein Pokémon-Thema-Multiplayer
 
 Ich habe versucht, die Buttons „accept“ und „reject“ für Freundschaftsanfragen in den Benachrichtigungen zu implementieren. Trotz mehrerer Versuche und Anpassungen wollte der Code die Buttons nicht anzeigen. Ich habe verschiedene Fehlerbehebungen ausprobiert, aber die Buttons bleiben unsichtbar.
 
-### 06.01.2024
+### 06.12.2024
 
 - [ ] In Python will ich ein Wörterbuch programm erstellen, dass ich mit crl + alt + D starten kann.
 - [ ] Eine Klassendiagramm von Minesweeper erstellen
